@@ -1,3 +1,9 @@
+.header-img {
+  height: 160px;
+  width: 160px;
+  margin-left: 80px;
+}
+
 .arnold {
   display: block;
   margin-left: auto;
@@ -29,9 +35,9 @@ li {
   margin-left: 20px;
 
 }
-
+/*
 .footer-div {
   margin-top: 50px;
   margin-left: 70px;
 
-}
+} */
